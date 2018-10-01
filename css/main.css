@@ -28,3 +28,7 @@ wrapper > .dfn {
 strong + .dfn {
   color: #fff;
 }
+
+a:not(.no-highlight) {
+  background-color: #719e07;
+}
